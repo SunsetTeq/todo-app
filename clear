@@ -1,0 +1,56 @@
+[33mcommit 6f4f3a51c080dd409a6ac4f8e8fc138840df9bcd[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/develop[m[33m, [m[1;32mdevelop[m[33m)[m
+Author: Aleksandr <dotadgager@gmail.com>
+Date:   Sat Jul 20 12:55:06 2024 +0300
+
+    Реализовали логику создания списков, получения среза всех списков пользователя по токену и конкретного по id
+
+[33mcommit 207ba337e287a925ae5b45236b7a0c451723159d[m
+Author: Aleksandr <dotadgager@gmail.com>
+Date:   Sat Jul 20 00:04:15 2024 +0300
+
+    Начало реализации логики для работы со списками
+
+[33mcommit 4fd58ccb788a63867ed0122aa89e46aaf5d29e4a[m
+Author: Aleksandr <dotadgager@gmail.com>
+Date:   Fri Jul 19 15:45:44 2024 +0300
+
+    Добавил парсинг JWT токенов
+
+[33mcommit 1facc23ab4f5af0916cd44424f2ea8a66dc7b4b2[m
+Merge: 5cb9d1a 2a626fe
+Author: Aleksandr <dotadgager@gmail.com>
+Date:   Thu Jul 18 23:06:54 2024 +0300
+
+    Merge remote-tracking branch 'origin/master'
+
+[33mcommit 5cb9d1ac2c6398a9f290f78aaa611ad1b9f8b881[m
+Author: Aleksandr <dotadgager@gmail.com>
+Date:   Thu Jul 18 23:04:35 2024 +0300
+
+    Добавил получение JWT токена при аутентификации
+
+[33mcommit 2a626feabb9809c707da2f4ef4bb3d6637180b0b[m
+Author: Aleksandr <dotadgager@gmail.com>
+Date:   Sun May 19 17:04:04 2024 +0300
+
+    Delete .env
+    
+    файл не для отслеживания
+
+[33mcommit f35bfa46e08015740404e1c87cd2f9e62b07b563[m
+Author: Aleksandr <dotadgager@gmail.com>
+Date:   Wed May 15 20:51:15 2024 +0300
+
+    подключили бд к приложению
+
+[33mcommit 2f6cb5029389f900d35d8e8bb5b522fa47c76eae[m
+Author: Aleksandr <dotadgager@gmail.com>
+Date:   Wed May 15 20:04:06 2024 +0300
+
+    добавили файлы миграции и разобрались с запуском бд в docker
+
+[33mcommit 11044fe1a2ebfbc5a1158358d6bf16a5708099f2[m
+Author: Aleksandr <dotadgager@gmail.com>
+Date:   Thu May 2 18:26:18 2024 +0300
+
+    my first commit
