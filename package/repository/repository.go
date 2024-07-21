@@ -21,6 +21,8 @@ type TodoList interface {
 type TodoItem interface {
 	Create(listId int, item firstRestApiProject.TodoItem) (int, error)
 	GetAll(userId, listId int) ([]firstRestApiProject.TodoItem, error)
+	GetById(userId, itemId int) (firstRestApiProject.TodoItem, error)
+	Delete(userId, itemId int) error
 }
 
 type Repository struct {

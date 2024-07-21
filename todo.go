@@ -30,6 +30,7 @@ type ListsItem struct {
 type UpdateListInput struct {
 	Title       *string `json:"title"`
 	Description *string `json:"description"`
+	Done        *bool   `json:"done" db:"done"`
 }
 
 func (i UpdateListInput) Validate() error {
