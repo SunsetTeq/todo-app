@@ -72,3 +72,9 @@
 - **POST /todo**: Создать новую задачу
 - **PUT /todo/{id}**: Обновить задачу
 - **DELETE /todo/{id}**: Удалить задачу
+
+
+#### Этот пет проект был выполнен по видеоурокам: https://www.youtube.com/watch?v=1LFbmWk7NLQ&list=PLbTTxxr-hMmyFAvyn7DeOgNRN8BQdjFm8&ab_channel=MaksimZhashkevych 
+
+#### Большое спасибо их автору «Maksim Zhashkevych»
+
